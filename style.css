@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+.question {
+    margin: 30px 0;
+}
+
+.question-image {
+    width: 600px; /* Adjust this width to your combined image size */
+    height: auto;
+    margin-bottom: 15px;
+    border: 2px solid #ccc;
+    padding: 5px;
+}
+
+label {
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838;
+}
